@@ -12,7 +12,7 @@ void StepX(char(&massiv)[9]);
 void StepO(char(&massiv)[9]);
 bool Check4win(char massiv[9]);
 
-int main()
+int main() // Главная функция
 {
 	setlocale(LC_ALL, "RUS");
 
